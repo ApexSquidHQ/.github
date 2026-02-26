@@ -1,15 +1,22 @@
-## Hi there 👋
+# Apex Squid
 
-I'll get to all this later
+Apex Squid is an independent engineering studio and product laboratory focused on:
 
+- Modular SaaS platform design
+- Event-driven architecture
+- CI/CD automation and developer workflow optimization
+- Performance-oriented system design
 
-<!--
+## Purpose
 
-**Here are some ideas to get you started:**
+Apex Squid serves as an engineering lab for:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- Evaluating new architectural patterns
+- Experimenting with scalable SaaS models
+- Building reusable components
+- Prototyping automation-driven systems
+
+## Projects
+
+- Commerce Kitty – Multi-channel marketplace automation platform
+- Internal architectural experiments and modular PHP components
